@@ -4,7 +4,7 @@ This is a test task for a company that requested to stay anonymous.
 
 The task itself is as follows:
 
-Write a CLI tool that fetches sites and outputs their MD5 hashes to the console. The sites must be fetched in parallel, number of parallel requests should be specified by a CLI flag. The result ordering is irrelevant.
+Write a CLI tool that fetches urls and outputs their MD5 hashes to the console. The sites must be fetched in parallel, number of parallel requests should be specified by a CLI flag. The result ordering is irrelevant.
 
 Usage:
 
